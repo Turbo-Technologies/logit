@@ -1,5 +1,5 @@
 import {Routes, Route} from 'react-router-dom'
-import { About, Help, Home} from './pages'
+import { About, Help, Home, Logging} from './pages'
 
 
 const Navbar = () => {
@@ -17,6 +17,8 @@ function App() {
     <Routes>
       <Route path='/about' element={<About/>}/>
       <Route path='/help' element={<Help/>}/>
+
+      <Route path='/logging' element={<Logging/>}/>
       <Route path="/" element={<Home/>}/>
 
     </Routes>
