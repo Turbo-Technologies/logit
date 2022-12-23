@@ -1,3 +1,3 @@
-# node-rvvtvr
+# LogIt
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-rvvtvr)
+An App for logging your life. Hnadle all your todos, journals, achievements in one place.
